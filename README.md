@@ -30,6 +30,7 @@ Output:
 [[1,-1],[1,2]]
 
 Explanation:
+
 The distance of the customer's current location from location [1,2] is square root(5) = 2.236
 
 The distance of the customer's current location from location [3,4] is square root(25) = 5
