@@ -31,6 +31,9 @@ Output:
 
 Explanation:
 The distance of the customer's current location from location [1,2] is square root(5) = 2.236
+
 The distance of the customer's current location from location [3,4] is square root(25) = 5
+
 The distance of the customer's current location from location [1,-1] is square root(2) = 1.414
+
 The required number of vegetarian restaurant is 2, hence the output is [1,-1] and [1,2].
